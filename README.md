@@ -1,7 +1,4 @@
-# Matplotlib Project: [Project Name]
-
-**Author:** [Your Name]  
-**Tools:** Python, Pandas, Matplotlib  
+# Matplotlib 
 
 ---
 
